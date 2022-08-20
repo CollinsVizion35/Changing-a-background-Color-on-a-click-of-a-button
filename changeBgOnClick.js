@@ -8,5 +8,4 @@ function changeBgColor() {
     }
       console.log(color);
       document.body.style.background = color;
-      linkLists.style.color = color;
 }
